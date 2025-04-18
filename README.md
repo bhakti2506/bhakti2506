@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Bhakti (@bhakti2506)
+### 👋 Hi there! I'm Bhakti hiwase
 
 - 👀 I'm passionate about **App Development**, **Web Development**, and **UI/UX Design**
 - 🌱 Currently learning **C**, **Python**, **Dart**, and diving into **UI Design**
@@ -18,8 +18,13 @@
 
 ### 📲 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhakti-hiwase-247209330)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/bhaktii_h)
+<a href="https://www.linkedin.com/in/bhakti-hiwase-247209330" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/bhaktii_h" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
+</a>
 
 ---
 
